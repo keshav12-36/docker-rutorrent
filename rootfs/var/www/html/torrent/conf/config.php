@@ -12,10 +12,10 @@
 	$httpIP = null;
 	$schedule_rand = 10;
 	$do_diagnostic = true;
-	$log_file = '/tmp/stdout-rtorrent.log';
+	$log_file = '/do/rtorrent/downloads/tmp/stdout-rtorrent.log';
 	$saveUploadedTorrents = true;
 	$overwriteUploadedTorrents = false;
-	$topDirectory = '/data/torrents';
+	$topDirectory = '/do/rtorrent';
 	$forbidUserSettings = false;
 	$scgi_port = 5000;
 	$scgi_host = "127.0.0.1";
